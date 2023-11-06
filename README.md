@@ -10,6 +10,3 @@ CityParkingApp is a peer-to-peer review app that helps you find the best parking
 - Report the location as "taken" or "available" to help other Parkr users.
 - Earn points and badges for your contributions, and unlock exclusive rewards.
 
-## Feedback
-
-We would love to hear from you. If you have any questions, suggestions, or issues, please contact us at parkr@gmail.com or visit our website at www.parkr.com.
