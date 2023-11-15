@@ -1,4 +1,4 @@
-# CityParkingApp1.0
+# CityParkingApp1.0 GUI Version
 
 CityParkingApp is a peer-to-peer review app that helps you find the best parking spots around the city. Whether you are looking for street parking, paid parking, or free parking lots, Parkr has you covered. You can also contribute to the CityParkingApp community by reporting the availability of parking locations in real-time.
 
